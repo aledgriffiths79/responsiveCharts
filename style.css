@@ -1,0 +1,23 @@
+#chart{
+    width: 100%;
+    max-width: 800px;
+    background-color: #f7f7f7;
+    margin: 0 auto;
+}
+
+/*To make a chart responsive adjust the code below to the one above*/
+/*
+#chart{
+    width: 800px;
+    max-width: 400px;
+    background-color: #f7f7f7;
+    margin: 0 auto;
+}
+*/
+
+.bar{
+    display: inline-block;
+    background-color: #7ED26D;
+    width: 25px;
+    margin-right: 5px;
+}
